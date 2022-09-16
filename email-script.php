@@ -8,6 +8,7 @@ if(isset($_POST['sendMailBtn'])&& $_POST['email'] !=''){
     $email=$_POST['email'];
     $naslov=$_POST['naslov'];
     $poruka=$_POST['poruka'];
+    $slika=$_FILES['slika'];
 
 
   $to="mesanovicmahir@gmail.com";
@@ -15,8 +16,11 @@ if(isset($_POST['sendMailBtn'])&& $_POST['email'] !=''){
   $body.="From:".$ime. "\r\n";
   $body.="Email:".$email. "\r\n";
   $body.="poruka:".$poruka. "\r\n";
+  $body.="slika:".$slika. "\r\n";
 
   mail($to,$naslov,$body);
+
+  $mail->addAttachment($slika,'33');
 
 
 
