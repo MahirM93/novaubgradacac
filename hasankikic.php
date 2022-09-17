@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>UB Gradacac</title>
+    <title>UB-Gradacac-Hasan Kikic</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -38,10 +38,10 @@
             </div>
             <div class="col-lg-6 text-center text-lg-right">
                 <div class="d-inline-flex align-items-center">
-                    <a class="text-white px-2" href="">
+                    <a class="text-white px-2" href="https://www.facebook.com/profile.php?id=100063756245117">
                         <i class="fab fa-facebook-f"></i>
                     </a>
-                    
+                   
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
             <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><img src="img/logo.png"><i></i>UB-GRADAČAC</h1>
+                <h1 class="m-0 text-uppercase text-primary"><img src="img/logo.png">UB-Gradačac</h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -61,20 +61,21 @@
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav mx-auto py-0">
                     <a href="index.html" class="nav-item nav-link">Start</a>
-                    <a href="about.html" class="nav-item nav-link">Informacije</a>
+                    <a href="about.html" class="nav-item nav-link active">Informacije</a>
                     <a href="course.html" class="nav-item nav-link">Novosti</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Galerija</a>
                         <div class="dropdown-menu m-0">
-                            <a href="detail.html" class="dropdown-item">ORB Hasan KIKIĆ</a>
-                            <a href="feature.html" class="dropdown-item">ORB 6.April</a>
-                            <a href="team.html" class="dropdown-item active">ĐEMAL BIJEDIĆ</a>
+                            <a href="detail.html" class="dropdown-item">ORB HASAN KIKIĆ</a>
+                            <a href="feature.html" class="dropdown-item">ORB 6.APRIL</a>
+                            <a href="team.html" class="dropdown-item">ORB ĐEMAL BIJEDIĆ</a>
                             <a href="testimonial.html" class="dropdown-item">NOVITETI</a>
                         </div>
                     </div>
                     <a href="contact.html" class="nav-item nav-link">Kontakt</a>
                 </div>
-                <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Donacija udruženju</a>
+                
+                <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Donacija Udruženju</a>
             </div>
         </nav>
     </div>
@@ -84,236 +85,112 @@
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">ORB Đemal Bijedić</h1>
+            <h1 class="text-white display-1">ORB Hasan Kikić</h1>
             <div class="d-inline-flex text-white mb-5">
-                <p class="m-0 text-uppercase"><a class="text-white" href="">Galerija</a></p>
+                <p class="m-0 text-uppercase"><a class="text-white" href="index.html">Start</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Đemal Bijedić</p>
+                <p class="m-0 text-uppercase">ORB Hasan Kikić</p>
             </div>
-        
+            
         </div>
     </div>
     <!-- Header End -->
 
 
-    <!-- Detail Start -->
+    <!-- About Start -->
     <div class="container-fluid py-5">
-        <section>
-            <div class="rt-container">
-                  <div class="col-rt-12">
-                      <div class="Scriptcontent">
-                      
-                  <div class="container">
-        <a href="#img1"> 
-        <img class="small" src="img/1.jpg">
-        </a>
-         <a href="#img2"> 
-        <img class="small" src="img/2.jpg">
-        </a>
-          <a href="#img3"> 
-        <img class="small" src="img/3.jpg">
-        </a>
-          <a href="#img4"> 
-        <img class="small" src="img/4.jpg">
-        </a>
-          <a href="#img5"> 
-        <img class="small" src="img/5.jpg">
-        </a>
-          <a href="#img6"> 
-        <img class="small" src="img/6.jpg">
-        </a>
-          <a href="#img7"> 
-        <img class="small" src="img/7.jpg">
-        </a>
-          <a href="#img8"> 
-        <img class="small" src="img/8.jpg">
-        </a>
-        <a href="#img9"> 
-            <img class="small" src="img/9.jpg">
-            </a>
-            <a href="#img10"> 
-                <img class="small" src="img/10.jpg">
-                </a>
-                <a href="#img11"> 
-                    <img class="small" src="img/11.jpg">
-                    </a>
-                    <a href="#img12"> 
-                        <img class="small" src="img/12.jpg">
-                        </a>
-                        <a href="#img13"> 
-                            <img class="small" src="img/13.jpg">
-                            </a>
-                            <a href="#img14"> 
-                                <img class="small" src="img/14.jpg">
-                                </a>
-         <!--Lightboxes-->
-        
-          <a href="#_" class="lightbox" id="img1">
-            <div> 
-              <img src="img/1.jpg"/> 
-              
-            </div>
-         </a>
-          <a href="#_" class="lightbox" id="img2">
-            <div> 
-              <img src="img/2.jpg"/> 
-             
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img3">
-            <div> 
-              <img src="img/3.jpg"/> 
-             
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img4">
-            <div> 
-              <img src="img/4.jpg"/> 
-              
-            </div>
-         
-          </a>
-            <a href="#_" class="lightbox" id="img5">
-            <div> 
-              <img src="img/5.jpg"/> 
-            
-            </div>
-         </a>
-          <a href="#_" class="lightbox" id="img6">
-            <div> 
-              <img src="img/6.jpg"/> 
-              
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img7">
-            <div> 
-              <img src="img/7.jpg"/> 
-              
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img8">
-            <div> 
-              <img src="img/8.jpg"/> 
-           
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img9">
-            <div> 
-              <img src="img/9.jpg"/> 
-              
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img10">
-            <div> 
-              <img src="img/10.jpg"/> 
-              
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img11">
-            <div> 
-              <img src="img/11.jpg"/> 
-             
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img12">
-            <div> 
-              <img src="img/12.jpg"/> 
-              
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img13">
-            <div> 
-              <img src="img/13.jpg"/> 
-             
-            </div>
-         
-          </a>
-          <a href="#_" class="lightbox" id="img14">
-            <div> 
-              <img src="img/14.jpg"/> 
-             
-            </div>
-         
-          </a>
-         
-          </div>
-                   
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100" src="img/courses-1,jpg" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="section-title position-relative mb-4">
+                        <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">O Udruženju</h6>
+                        <h1 class="display-4">Omladinska Radna Brigada - Hasan Kikić</h1>
+                    </div>
+                    <p><b>ORB HASAN KIKIĆ</b> GRADAČAC spada u red mješoviti brigada.<br>Okupljala je studentsku,srednjoškolsku,radničku,seosku i gradsku omladinu.<br>Brigada je nosila ime Kljiževnika Pisca i <b>revolucionara</b>Hasana Kikića.</p>
+                    <div class="row pt-3 mx-0">
+                        <div class="col-3 px-0">
+                            <div class="bg-success text-center p-4">
+                                <h1 class="text-white" data-toggle="counter-up">2</h1>
+                                <h6 class="text-uppercase text-white">Projekti u<span class="d-block">Izradi</span></h6>
+                            </div>
+                        </div>
+                        <div class="col-3 px-0">
+                            <div class="bg-primary text-center p-4">
+                                <h1 class="text-white" data-toggle="counter-up">83</h1>
+                                <h6 class="text-uppercase text-white">Broj<span class="d-block">Clanova</span></h6>
+                            </div>
+                        </div>
+                        <div class="col-3 px-0">
+                            <div class="bg-secondary text-center p-4">
+                                <h1 class="text-white" data-toggle="counter-up">2</h1>
+                                <h6 class="text-uppercase text-white">Obavljeni<span class="d-block">projekti</span></h6>
+                            </div>
+                        </div>
+                        <div class="col-3 px-0">
+                            <div class="bg-warning text-center p-4">
+                                <h1 class="text-white" data-toggle="counter-up">300</h1>
+                                <h6 class="text-uppercase text-white">Nasi<span class="d-block">Prijatelji</span></h6>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </section>
-     <style>
-        .container {
-	display: block;
-	max-width: 800px;
-	margin: 0 auto;
-	text-align: center;
-}
-
-.small {
-	width: 180px;
-	height: auto;
-	position: relative;
-	margin: 3px;
-	border-radius: 5px;
-}
-
-.small:hover {
-	-webkit-transform: scale(1.03, 1.03);
-	transform: scale(1.03, 1.03);
-}
-
-.lightbox {
-	display: none;
-	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: 1;
-	width: 100%;
-	height: 100%;
-	background: rgba(0, 0, 0, 0.7);
-}
-
-a div {
-	position: relative;
-	margin: auto auto;
-	text-align: center;
-}
-a div img{
-  width: 100%;
-  height: auto;
-}
-
-.lightbox:target {
-	display: -webkit-box;
-	display: flex;
-}
-
-.container a {
-	text-decoration: none;
-}
-
-.container p {
-	font-size: 20px;
-	color: white;
-	font-family: 'Poiret One';
-}
-     </style>        
+        </div>
     </div>
     <!-- About End -->
 
 
     <!-- Feature Start -->
-    
+    <div class="container-fluid bg-image" style="margin: 90px 0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 my-5 pt-5 pb-lg-5">
+                    <div class="section-title position-relative mb-4">
+                        <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Zasto nam se pridruziti?</h6>
+                        <h1 class="display-4">Zašto se pridružiti?</h1>
+                    </div>
+                    <p class="mb-4 pb-2">Ako  zelis da napravis   promjenu u svom drustvu ili jednostavno zelis da pridoneses svojoj zajednici i pri tome da upoznas nove ljude sa kojima dijelis slicne ideje.To je razlog vise nego dovoljan da  nam se pridruzis</p>
+                    <div class="d-flex mb-3">
+                        <div class="btn-icon bg-primary mr-4">
+                            <i class="fa fa-2x fa-graduation-cap text-white"></i>
+                        </div>
+                        <div class="mt-n1">
+                            <h4>Ekološka svijest</h4>
+                            <p>Čuvaj prirodu i njena bogatstva za generacije koje dolaze.Očistimo rijeke i jezera i napravimo parkove</p>
+                        </div>
+                    </div>
+                    <div class="d-flex mb-3">
+                        <div class="btn-icon bg-secondary mr-4">
+                            <i class="fa fa-2x fa-certificate text-white"></i>
+                        </div>
+                        <div class="mt-n1">
+                            <h4>Druženje</h4>
+                            <p>Upoznajmo nove ljude,sklopimo prijateljstva i proširimo naš krug prijatelja</p>
+                        </div>
+                    </div>
+                    <div class="d-flex">
+                        <div class="btn-icon bg-warning mr-4">
+                            <i class="fa fa-2x fa-book-reader text-white"></i>
+                        </div>
+                        <div class="mt-n1">
+                            <h4>Razvoj društvene zajednice</h4>
+                            <p class="m-0">Ne ćekajmo drugi da nešta poduzmu nego mi sami  možemo doprinijeti razvoju naše društvene zajednice</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100" src="img/oo.jpg" style="object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Feature Start -->
 
 
